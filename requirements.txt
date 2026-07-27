@@ -1,0 +1,9 @@
+trame
+trame-vtk
+trame-vega
+trame-vuetify
+pandas
+numpy
+altair
+scikit-learn
+vtk

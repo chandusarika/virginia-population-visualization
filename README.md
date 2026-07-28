@@ -4,9 +4,7 @@
 
 An interactive, browser-based system for exploring county-level population trends across Virginia from 2010–2019. The app combines high-performance geographic rendering with declarative statistical charting and lightweight machine learning to let users explore spatial and temporal population patterns side by side.
 
-Built as part of COSC 6344 (Visualization), Fall 2025, University of Houston.
 
-**Authors:** Jayachandra Sarika, Anjani Kumar Avadhanam, Minh Nguyen
 
 ---
 
